@@ -43,7 +43,7 @@
     height: 55px;
     background-color: white;
     margin-top: 64px;
-    border-radius: 25%;
+    border-radius: 25px;
 }
 .ppp1{
     padding-left: 33px;
@@ -67,4 +67,71 @@
     font-size: 15px;
     color: #707070;
     margin-top: 24px;
+}
+/* section2 */
+.s2-bg{
+    background-image: url(../img/s2photo.jpg);
+    width: 100%;
+    height: 836px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.s2right{
+    width: 658px;
+    height: 149px;
+    margin-top: 152px;
+    margin-left: 800px;
+}
+.ruka{
+    width: 830px;
+    height: 800px;
+    padding-top: 120px;
+}
+.s3h2{
+    margin-top: 202px;
+    margin-left: -95px;
+    font-size: 25px;
+}
+.s3div1{
+    width: 550px;
+    height: 100px;
+    margin-top: 26px;
+    margin-left: -95px;
+}
+.s3photo{
+    margin-top: 15px;
+    margin-left: -118px;
+}
+/* .sec4{ */
+    height: 340px;
+    width: 100%;
+}
+.s4h2{
+    font-size: 25px;
+}
+.s4divi{
+    text-align: center;
+}
+.s4divi2{
+    width: 550px;
+    height: 101px;
+    text-align: center;
+    margin: 0  auto;
+    margin-top: 24px;
+}
+/* sec 5 */
+.sec5conteiner{
+    width: 1227px;
+    /* height: 1052px; */
+    margin: 0  auto;
+}
+.s5divi{
+    justify-content: space-between;
+}
+.s5surati2{
+    margin-top: 14.2px;
+    margin-bottom: 14.2px;
+}
+.s5bolofoto{
+    margin-top: 14.2px;
 }
