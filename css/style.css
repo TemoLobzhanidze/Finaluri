@@ -37,6 +37,7 @@
     color: #FFFFFF;
     margin-top: 56px;
     font-size: 20px;
+    font-family: 'Redressed', cursive;
 }
 .batt1{
     width: 166px;
@@ -67,6 +68,7 @@
     font-size: 15px;
     color: #707070;
     margin-top: 24px;
+    font-family: 'Redressed', cursive;
 }
 /* section2 */
 .s2-bg{
@@ -97,6 +99,7 @@
     height: 100px;
     margin-top: 26px;
     margin-left: -95px;
+    font-family: 'Redressed', cursive;
 }
 .s3photo{
     margin-top: 15px;
@@ -118,6 +121,7 @@
     text-align: center;
     margin: 0  auto;
     margin-top: 24px;
+    font-family: 'Redressed', cursive;
 }
 /* sec 5 */
 .sec5conteiner{
@@ -149,6 +153,7 @@
     height: 78px;
     margin-left: 160px;
     margin-top: 31px;
+    font-family: 'Redressed', cursive;
 }
 .footer-div2{
     margin-left: 117px;
@@ -178,6 +183,7 @@
     width: 275px;
     margin-top: 35px;
     color: #AAA9A9;
+    font-family: 'Redressed', cursive;
 }
 .ft-contact{
     margin-top: 25px;
