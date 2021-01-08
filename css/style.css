@@ -135,3 +135,55 @@
 .s5bolofoto{
     margin-top: 14.2px;
 }
+/* footer */
+.footer{
+    height: 350px;
+    width: 100%;
+}
+.footer-logo{
+    margin-left: 160px;
+    margin-top: 25px;
+}
+.footer-div1{
+    width: 315px;
+    height: 78px;
+    margin-left: 160px;
+    margin-top: 31px;
+}
+.footer-div2{
+    margin-left: 117px;
+    margin-top: 35px;
+}
+.footer-ul{
+    margin-top: 35px;
+}
+.footer-li{
+    margin-bottom: 25px;
+}
+.footer-a1{
+    color: #AAA9A9
+}
+.footer-div3{
+    margin-top: 35px;
+    margin-left: 157px;
+}
+.footer1-div4{
+    height: 27px;
+    width: 115px;
+    margin-left: 117px;
+    margin-top: 35px;
+}
+.footer-div4{
+    height: 52px;
+    width: 275px;
+    margin-top: 35px;
+    color: #AAA9A9;
+}
+.ft-contact{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+.ft-contact1{
+    color: #688095;
+}
