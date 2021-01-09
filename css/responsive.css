@@ -1,0 +1,129 @@
+@media screen and (max-width: 1440px) {
+    .section1-main-div {
+        flex-direction: column;
+    }
+    .m-left-div {
+        margin-top: 20px;
+    }
+    .s1rightblock {
+        justify-content: space-between;
+    }
+    .s1rightblock div {
+        width: 100%;
+    }
+    
+    .s1rightblock img {
+    width: 97%;
+    }
+    .fa-bars {
+        display: block;
+    }
+    nav {
+        display: none;
+    }
+    .h1isdivi h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .footer-div4 {
+        width: auto;
+    }
+    .conteiner1 {
+        width: auto;
+    }
+
+  }
+@media screen and (max-width: 1245px) {
+
+    .section2 {
+        flex-direction: column;
+    }
+    iframe {
+        width: 100%;
+        padding: 20px;
+    }
+    .ruka {
+        width: auto;
+        height: auto;
+        padding-top: 0;
+    }
+    .s3h2 {
+        margin-top: 20px;
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+    }
+    .s3div1 {
+        width: 50%;
+        height: auto;
+    }
+    .section2-right-div {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .s3photo img {
+        width: 100%;
+    }
+    .s3div1 {
+        margin-left: 0;
+    }
+    .s3photo {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .s4h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .s4divi2 {
+        width: 96%;
+    }
+    footer {
+        padding: 20px;
+    }
+    .footer-wraper {
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .footer-logo,
+    .footer-div1,
+    .footer-div2,
+    .footer-div3,
+    .footer1-div4 {
+        margin-left: 0;
+    }
+    .footer-div4 p {
+        width: 100%;
+    }
+    .footer-div1 p {
+        width: 100%;
+    }
+    .sec5conteiner {
+        width: auto;
+    }
+
+
+    .meore-sveti {
+        display: none;
+    }
+
+
+  }
+
+  @media screen and (max-width: 784px) {
+    .footer-div1 {
+        width: auto;
+    }
+    .img-div,
+    .img-div img {
+        width: 100%;
+    }
+    .sveti33 {
+        display: none;
+    }
+    .s5svet1 {
+        width: 98%;
+    }
+  }  
